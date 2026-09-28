@@ -1,0 +1,15 @@
+{
+	"name": "shlok12",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "083d1481-caea-43f2-a7e4-73b526b71eaa",
+		"tenantId": "cce8d037-8bf6-4f55-b441-281eb0b307cc"
+	}
+}
